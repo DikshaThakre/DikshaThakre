@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/diksha_thakre"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Diksha%20Thakre-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/diksha_thakre"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Diksha%20Thakre-blue?style=flat-square&logo=twitter"></a>
 <a href="http://www.linkedin.com/in/dikshathakre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diksha%20Thakre-blue?style=flat-square&logo=linkedin"></a>
 
 ⭐️ From [DikshaThakre](https://github.com/DikshaThakre)
