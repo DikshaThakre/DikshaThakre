@@ -50,8 +50,5 @@
 <p align="center">
 <a href="https://twitter.com/diksha_thakre"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Diksha%20Thakre-blue?style=flat-square&logo=linkedin"></a>
 <a href="http://www.linkedin.com/in/dikshathakre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diksha%20Thakre-blue?style=flat-square&logo=linkedin"></a>
-[//]: <> <a href="mailto:dikshathakre08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dikshathakre08@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-[//]: <> <a href="https://www.dikshathakre.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dikshathakre.com-blue?style=flat-square&logo=google-chrome"></a>
 
 ⭐️ From [DikshaThakre](https://github.com/DikshaThakre)
