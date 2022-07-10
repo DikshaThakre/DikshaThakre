@@ -37,9 +37,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/DikshaThakre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DikshaThakre&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshaThakre&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -47,9 +47,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.dikshathakre.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="http://www.linkedin.com/in/dikshathakre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:dikshathakre08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.dikshathakre.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dikshathakre.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://www.linkedin.com/in/dikshathakre"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diksha%20Thakre-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:dikshathakre08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dikshathakre08@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [DikshaThakre](https://github.com/DikshaThakre)
