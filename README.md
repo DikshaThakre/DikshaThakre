@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Completed B. Tech in Computer Science and Engineering.
 - 💼 &nbsp; Working as a Software Developer.
-- 🌱 &nbsp; Learning more about Backend Development, Systems Design.
+- 🌱 &nbsp; Learning more about Backend and Frontend Development, Systems Design.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
